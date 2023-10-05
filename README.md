@@ -13,6 +13,8 @@ Before you report an issue, please check the existing issues to see if the probl
 - **Link to Messages**: Share a link to any relevent messages (right click the message in Discord and select **Copy Message Link**)
 - **Label**: Apply the appropriate label (bug, enhancement, feature request) to categorize your issue.
 
+### [⚠️ Issue Reporting Page Here](https://github.com/Geoffery10/AI-Bot-Issues/issues)
+
 ## Issue Templates
 
 To make the issue reporting process smoother, we have provided issue templates. When you create a new issue, you can choose the relevant template to guide you through the process.
