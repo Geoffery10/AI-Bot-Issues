@@ -28,6 +28,9 @@ Please adhere to the following guidelines when using this issue tracker:
 - Avoid spamming or posting off-topic comments.
 - Do not share sensitive or personal information.
 
+## Link to Issue Page
+- [⚠️ Issues](https://github.com/Geoffery10/AI-Bot-Issues/issues)
+
 ## Contribution Guidelines
 
 If you're interested in contributing to the development of Yume-Chan or Yui-Chan, message geoffery10 on Discord for more information on how to get involved.
